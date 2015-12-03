@@ -15,5 +15,7 @@
         </config-file>
         <header-file src="src/ios/CDVVideo.h" />
         <source-file src="src/ios/CDVVideo.m" />
+        <header-file src="src/ios/MovieViewController.h" />
+        <source-file src="src/ios/MovieViewController.m" />
     </platform>
 </plugin>
